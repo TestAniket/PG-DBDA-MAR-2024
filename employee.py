@@ -353,7 +353,6 @@ class Employee:
    
        
 
-#  searchCursor.execute():'select * from employee where ' +str(self.searchOption.get())+"="+str(self.searchInput.get())
 
 
 
